@@ -1,0 +1,62 @@
+.menu-main {
+  font-size: 35px;
+  display: flex;
+  justify-content:space-evenly;
+ 
+}
+
+header{
+  background-color: black;
+  border-top: solid;
+  border-radius: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: magenta;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  text-decoration: none;
+}
+
+a:visited {
+  color: azure;
+}
+
+.logo {
+  width: 35%;  
+}
+
+
+body {
+background-color: #9d999d;
+text-align: justify;
+}
+
+.parnik {
+  text-align: center;
+}
+
+.pic1 {
+  width: 20%;
+  
+}
+
+.name {
+margin-top: 20px;
+width: auto;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  border-style: dashed;
+  border-radius: 20px;
+
+}
