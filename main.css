@@ -45,6 +45,16 @@ text-align: justify;
   
 }
 
+.documents {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16pt;
+  text-align: center;
+}
+
+.refraction {
+  width: 250px;
+}
+
 .name {
 margin-top: 20px;
 width: auto;
