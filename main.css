@@ -41,8 +41,15 @@ text-align: justify;
 }
 
 .pic1 {
+  width: 20%; 
+}
+
+.park {
+  text-align:center;
+}
+
+.pic2 {
   width: 20%;
-  
 }
 
 .documents {
