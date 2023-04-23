@@ -59,6 +59,14 @@ text-align: justify;
   width: 250px;
 }
 
+.ball {
+  width: 250px;
+}
+
+.MMessage {
+  width: 250px;
+}
+
 .name {
 margin-top: 20px;
 width: auto;
